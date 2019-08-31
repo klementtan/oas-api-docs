@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afc7ab20b4aba0b720c0995f2feede6c",
+    "revision": "5317b910b099f2c07a06df830cd813a8",
     "url": "/oas-api-docs/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oas-api-docs/static/css/2.d5268ea3.chunk.css"
   },
   {
-    "revision": "e21b987758459d8187ff",
+    "revision": "24288bf06c1c56fd95e0",
     "url": "/oas-api-docs/static/css/main.8f3ce6dc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oas-api-docs/static/js/2.c15a5efe.chunk.js"
   },
   {
-    "revision": "e21b987758459d8187ff",
-    "url": "/oas-api-docs/static/js/main.77ae75dc.chunk.js"
+    "revision": "24288bf06c1c56fd95e0",
+    "url": "/oas-api-docs/static/js/main.4c378381.chunk.js"
   },
   {
     "revision": "b8f5b1568522db62a3b9",
