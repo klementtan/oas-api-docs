@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9394c38a.chunk.css",
-    "main.js": "/static/js/main.c5833499.chunk.js",
-    "main.js.map": "/static/js/main.c5833499.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.faaa52d3.chunk.css": "/static/css/2.faaa52d3.chunk.css",
-    "static/js/2.4382cb34.chunk.js": "/static/js/2.4382cb34.chunk.js",
-    "static/js/2.4382cb34.chunk.js.map": "/static/js/2.4382cb34.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ddf62469727434a781664031c835cabe.js": "/precache-manifest.ddf62469727434a781664031c835cabe.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.faaa52d3.chunk.css.map": "/static/css/2.faaa52d3.chunk.css.map",
-    "static/css/main.9394c38a.chunk.css.map": "/static/css/main.9394c38a.chunk.css.map",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/oas-api-docs/static/css/main.9394c38a.chunk.css",
+    "main.js": "/oas-api-docs/static/js/main.2359bb51.chunk.js",
+    "main.js.map": "/oas-api-docs/static/js/main.2359bb51.chunk.js.map",
+    "runtime~main.js": "/oas-api-docs/static/js/runtime~main.0971ca1c.js",
+    "runtime~main.js.map": "/oas-api-docs/static/js/runtime~main.0971ca1c.js.map",
+    "static/css/2.d5268ea3.chunk.css": "/oas-api-docs/static/css/2.d5268ea3.chunk.css",
+    "static/js/2.a126de81.chunk.js": "/oas-api-docs/static/js/2.a126de81.chunk.js",
+    "static/js/2.a126de81.chunk.js.map": "/oas-api-docs/static/js/2.a126de81.chunk.js.map",
+    "index.html": "/oas-api-docs/index.html",
+    "precache-manifest.b769f35155a2e549abf164e387992ee1.js": "/oas-api-docs/precache-manifest.b769f35155a2e549abf164e387992ee1.js",
+    "service-worker.js": "/oas-api-docs/service-worker.js",
+    "static/css/2.d5268ea3.chunk.css.map": "/oas-api-docs/static/css/2.d5268ea3.chunk.css.map",
+    "static/css/main.9394c38a.chunk.css.map": "/oas-api-docs/static/css/main.9394c38a.chunk.css.map",
+    "static/media/semantic.min.css": "/oas-api-docs/static/media/outline-icons.ef60a4f6.woff"
   }
 }
